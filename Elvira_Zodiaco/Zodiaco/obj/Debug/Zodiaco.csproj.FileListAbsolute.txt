@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2013\Projects\Zodiaco\Zodiaco\bin\Zodiaco.dll.config
+c:\users\pc\documents\visual studio 2013\Projects\Zodiaco\Zodiaco\bin\Zodiaco.dll
+c:\users\pc\documents\visual studio 2013\Projects\Zodiaco\Zodiaco\bin\Zodiaco.pdb
+c:\users\pc\documents\visual studio 2013\Projects\Zodiaco\Zodiaco\obj\Debug\Zodiaco.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\Zodiaco\Zodiaco\obj\Debug\Zodiaco.dll
+c:\users\pc\documents\visual studio 2013\Projects\Zodiaco\Zodiaco\obj\Debug\Zodiaco.pdb

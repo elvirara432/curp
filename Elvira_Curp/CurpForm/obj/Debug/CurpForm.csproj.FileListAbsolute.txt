@@ -1,0 +1,9 @@
+C:\Users\carlos y korayma\Desktop\Curp\CurpForm\bin\Debug\CurpForm.exe.config
+C:\Users\carlos y korayma\Desktop\Curp\CurpForm\bin\Debug\CurpForm.exe
+C:\Users\carlos y korayma\Desktop\Curp\CurpForm\bin\Debug\CurpForm.pdb
+C:\Users\carlos y korayma\Desktop\Curp\CurpForm\obj\Debug\CurpForm.csprojResolveAssemblyReference.cache
+C:\Users\carlos y korayma\Desktop\Curp\CurpForm\obj\Debug\CurpForm.Form1.resources
+C:\Users\carlos y korayma\Desktop\Curp\CurpForm\obj\Debug\CurpForm.Properties.Resources.resources
+C:\Users\carlos y korayma\Desktop\Curp\CurpForm\obj\Debug\CurpForm.csproj.GenerateResource.Cache
+C:\Users\carlos y korayma\Desktop\Curp\CurpForm\obj\Debug\CurpForm.exe
+C:\Users\carlos y korayma\Desktop\Curp\CurpForm\obj\Debug\CurpForm.pdb
